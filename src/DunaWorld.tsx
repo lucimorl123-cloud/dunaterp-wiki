@@ -59,7 +59,7 @@ const chapters = [
     n: "04",
     kicker: "MATHEMATICAL MODEL",
     title: "Find where control moves",
-    body: "Expression, branch kinetics and network capacity ask when more LCYB stops producing a useful gain.",
+    body: "A five-state model connects regulator abundance and promoter occupancy to LCYB transcription, enzyme abundance and the β-carotene pool. Quantitative prediction begins after the listed kinetic inputs are measured.",
     link: "/model",
     c: "#f8cb54",
   },
